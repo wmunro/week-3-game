@@ -1,9 +1,15 @@
-* {
-  box-sizing: border-box;
+
+
+h1 { 
+
+	font-family: 'Metrophobic', Arial, serif; font-weight: 400; 
+
 }
 
-h1 {
-    text-align: center;
-}
-
-    
+body {
+  	background-color: #ffffff;
+  	font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #555;
+	  }
